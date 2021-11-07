@@ -8,6 +8,10 @@
 - We have explored search problems with just weights and edges and using the basic A* algorithm.
 - <b>RRT* Connect</b> will have a better convergence rate and we will deal with the real life problem of obstacle avoidance in autonomous vehicles as well.
 
+### Input : Satellite View Image, the green dot is the car and the red dot is the destination
+
+![INPUT](https://github.com/Hritaban02/rrt_star_connect/blob/master/rrt_connect_2.png)
+
 ### Documentation
 
 Read the report [here](https://docs.google.com/document/d/1x_x6wV92BNi2qEoeJY5fvgdGAckjnCtmiy7TnEU_wTw/edit#heading=h.p0er24t7ayi1).
