@@ -1,6 +1,6 @@
 # RRT*-Connect
 
-## for Single Query Path Planning and Obstacle Avoidance in Autonomous Vehicles
+## For Single Query Path Planning and Obstacle Avoidance in Autonomous Vehicles
 
 - The problem of finding a path efficiently to a goal while avoiding obstacles can be mapped to a <b>Search Problem</b> in Artificial Intelligence as we have to search for a path from a source to a destination.
 - Our search space is the satellite-view image which is essentially a 2-D grid. The grid cells which are a part of any obstacle are blocked and we have to look for a path from the source to the destination through the unblocked cells.
@@ -10,7 +10,7 @@
 
 ### Documentation
 
-Read the report [here](https://docs.google.com/document/d/1x_x6wV92BNi2qEoeJY5fvgdGAckjnCtmiy7TnEU_wTw/edit#).
+Read the report [here](https://docs.google.com/document/d/1x_x6wV92BNi2qEoeJY5fvgdGAckjnCtmiy7TnEU_wTw/edit#heading=h.p0er24t7ayi1).
 
 ### Video Demo
 
